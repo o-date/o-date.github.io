@@ -164,7 +164,7 @@ a:active {
   position: relative;
   font-family: "themefisher-font" !important; }
   .pre-loader:before {
-    content: "\f3bd";
+    content: "\e00b";
     position: absolute;
     top: 50%;
     left: 50%;
@@ -221,7 +221,7 @@ a:active {
     .hero-area start
 --*/
 .hero-area {
-  height: 90vh;
+  height: 90%;
   display: flex;
   justify-content: center;
   align-items: center; }
