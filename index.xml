@@ -12,13 +12,11 @@
     
     <item>
       <title></title>
-      <link>https://o-date.github.io/collaborate/</link>
+      <link>https://o-date.github.io/content/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://o-date.github.io/collaborate/</guid>
-      <description>How to Add to the Material the First Time. Short version: 1. Fork the repo 2. Edit the relevant files 3. Make a pull request.
-Long version:
-Find the o-date/draft repo: Hit the &amp;lsquo;fork&amp;rsquo; button to make a copy: The files you want to edit all end in .rmd. do not edit anything else. Try not to edit anything someone else is currently working on. Note in the screenshot is says &amp;lsquo;this branch is even with o-date:gh-pages&amp;rsquo;.</description>
+      <guid>https://o-date.github.io/content/</guid>
+      <description>Need help? Contact shawn dot graham at carleton dot ca</description>
     </item>
     
   </channel>
